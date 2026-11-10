@@ -1,0 +1,42 @@
+
+# Virtual Environment
+venv/
+.venv/
+env/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment Variables and Secrets
+.env
+.env.*
+!.env.example
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Operating System
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Generated Dataset Files
+data/raw/*
+data/processed/*
+
+# Saved Model Artifacts
+artifacts/*
+!artifacts/.gitkeep
+
+# IDE Settings
+.vscode/
+.idea/
+
+# Testing and Coverage
+.pytest_cache/
+.coverage
+htmlcov/
