@@ -26,6 +26,8 @@ Thumbs.db
 
 # Generated Dataset Files
 data/raw/*
+!data/raw/student_performance.csv
+
 data/processed/*
 
 # Saved Model Artifacts
