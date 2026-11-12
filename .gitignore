@@ -51,3 +51,12 @@ reports/phase8/all_flagged_student_explanations.csv
 reports/phase8/individual_student_explanations.csv
 reports/phase8/responsible_ai_advisory_report.csv
 EOF
+
+# Generated test reports
+reports/pytest-results.xml
+
+# Row-level validation predictions
+reports/phase5/validation_predictions.csv
+
+# Generated test reports
+reports/pytest-results.xml
