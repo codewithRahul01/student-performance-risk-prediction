@@ -1,0 +1,13 @@
+Metric,Value
+Total Records,5000.0
+Unique Students,1000.0
+Prediction Periods,5.0
+Total Features,5.0
+Missing Values,0.0
+Duplicate Rows,0.0
+At-Risk Records,237.0
+Not-at-Risk Records,4763.0
+At-Risk Percentage,4.74
+Average Attendance,72.31
+Average Assignment Completion,69.77
+Average Next Assessment Score,64.23
