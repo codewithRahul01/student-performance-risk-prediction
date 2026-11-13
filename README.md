@@ -314,6 +314,12 @@ Open:
 http://localhost:8501
 ```
 
+## Live Application
+
+Try the deployed Student Performance & At-Risk Prediction dashboard:
+
+[Launch Dashboard](https://student-performance-risk-prediction-3iz2dju8tfawgj6hdxqknq.streamlit.app)
+
 ## 13. Installation and Setup
 
 Clone the repository:
